@@ -4,7 +4,7 @@ import hashlib
 import os
 import random
 import psutil
-from Vanar_Raksha_Guhya_1 import Vanar_Guhya_Raksha
+from Git_hub_Vanar_Raksha_Guhya import Vanar_Guhya_Raksha
 import sys
 import PyQt6
 from PyQt6.QtWidgets import QComboBox, QMainWindow, QPushButton, QLineEdit, QVBoxLayout, QHBoxLayout, QWidget, \
